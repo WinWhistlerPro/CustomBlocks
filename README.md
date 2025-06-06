@@ -19,7 +19,7 @@ Russian
 [05.06.2025] [1.0.0 или 1.0]   - Команда "/giveitem", использование не скажу. Вот синтаксис: /giveitem <url> <name> <count>
 ```
 
-Russian
+Byelorussian
 # Перадгісторыя
 ### Увядзенне.
 Калісьці я вырашыў зрабіць свой праект чыста для свайго сервера, AlphaWorld. Тады я са сваім сябрам усімі сіламі хацеў зрабіць праект. І на рэжыме крэатыву і свету донатеров на выжыванні я хацеў зрабіць цэлы убудова для выдачы блокаў са сваёй тэкстурай. Тады я напісаў неакуратна свой першы праект на Java, CustomTextures. Але потым я зразумеў што гэта разводилово і вырашыў спыніць падтрымку, нягледзячы на тое, што 3 версіі я зрабіў за 1 дзень.
@@ -38,8 +38,8 @@ Russian
 [05.06.2025] [1.0.0 або 1.0]   - каманда "/giveitem", выкарыстанне не скажу. Вось сінтаксіс: / giveitem < url > < name > <count>
 ```
 
-Russian
-# Background
+English
+# Backstory
 ### Introduction.
 Once I decided to make my project purely for my server, AlphaWorld. Then my friend and I wanted to do the project with all our might. Both in the creative mode and in the world of donors for survival, I wanted to make a whole plugin for issuing blocks with my own texture. Then I sloppily wrote my first Java project, CustomTextures. But then I realized that it was a dilemma and decided to stop support, despite the fact that I made 3 versions in 1 day.
 June 5, 2025: I decided to redo my project and finally post it!
@@ -57,7 +57,7 @@ Info: the log looks like this: `[DD.MM.YYYY] [Part.Release.Bugfix] Information` 
 [06/05/2025] [1.0.0 or 1.0] - The "/giveitem" command, I won't say the usage. Here is the syntax: /giveitem <url> <name> <count>
 ```
 
-Ρωσική
+Greek
 # Φόντο
 ### Εισαγωγή.
 Μόλις αποφάσισα να κάνω το έργο μου καθαρά για το διακομιστή μου, AlphaWorld. Τότε ο φίλος μου και εγώ θέλαμε να κάνουμε το έργο με όλη μας τη δύναμη. Τόσο στη δημιουργική λειτουργία όσο και στον κόσμο των δωρητών για επιβίωση, ήθελα να φτιάξω ένα ολόκληρο πρόσθετο για την έκδοση μπλοκ με τη δική μου υφή. Τότε έγραψα ατημέλητα το πρώτο μου έργο Java, CustomTextures. Αλλά τότε συνειδητοποίησα ότι ήταν ένα δίλημμα και αποφάσισα να σταματήσω την υποστήριξη, παρά το γεγονός ότι έκανα 3 εκδόσεις σε 1 ημέρα.
